@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Thejas Software Solutions.</h1>
-<h1 align="center"> TSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support...Teaching Real Time scnerios. New batch is starting from 25th Dec</h1>
+<h1 align="center"> TSS- Very Good Training center for DevOps with AWS/Azure/GCP in Maratha Halli and also for Job Assitance Job Support...Teaching Real Time scnerios. New batch is starting from 25th Dec</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
