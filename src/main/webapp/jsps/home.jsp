@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Thejas Software Solutions.</h1>
-<h1 align="center">Hello Thejas, en samachara ?</h1>
+<h1 align="center">Hello Thejas, how are you today ?</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
